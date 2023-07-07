@@ -1,0 +1,25 @@
+#maindiv{
+    display: grid;
+
+    grid-template-columns: auto auto auto auto auto ;
+
+}
+
+#div1{
+    
+    display:block;
+    justify-content: center;
+    width:299px;
+    height: 400px;
+}
+
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9, #btnsub, #btndel, #btndiv ,#btnp, #btnmul, #btneq , #btndot{
+    border-radius:none;
+    width: 75px;
+
+}
+#box{
+    padding: 5px;
+    width:299px;
+    height: 90px;
+}
