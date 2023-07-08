@@ -78,7 +78,9 @@ btndiv.addEventListener("click", function () {
 })
 
 
-
+btnclr.addEventListener("click", function () {
+    box.value=""
+})
 
 
 
