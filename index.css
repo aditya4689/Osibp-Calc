@@ -14,9 +14,13 @@
 }
 
 #btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9, #btnsub, #btndel, #btndiv ,#btnp, #btnmul, #btneq , #btndot{
-    border-radius:none;
+    border-radius: 0px;
     width: 75px;
 
+}
+#btnclr{
+    border-radius: 0px;
+    width:297px
 }
 #box{
     padding: 5px;
